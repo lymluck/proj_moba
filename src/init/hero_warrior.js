@@ -1,0 +1,17 @@
+export default {
+  moveSpeed: 160,
+  attackDamageMin: 70,
+  attackDamageMax: 80,
+  attackRange: 100,
+  attackAnimation: 80,
+  attackGap: 1200,
+  attackMissileSpeed: 0,
+  fireName: 'daze',
+  fireDamage: 20,
+  fireDuration: 2000,
+  fireRange: 300,
+  fireAnimation: 200,
+  fireGap: 16000,
+  fireMissileSpeed: 400,
+  healthPoint: 900,
+};
